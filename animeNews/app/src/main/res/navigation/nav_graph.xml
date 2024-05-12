@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/FirstFragment">
+
+    <fragment
+        android:id="@+id/FirstFragment"
+        android:name="com.example.animenews.FirstFragment"
+        android:label="@string/first_fragment_label"
+        tools:layout="@layout/fragment_first">
+
+        <action
+            android:id="@+id/action_Main_to_Anime1"
+            app:destination="@id/Anime1" />
+
+        <action
+            android:id="@+id/action_Main_to_Anime2"
+            app:destination="@id/Anime2" />
+
+        <action
+            android:id="@+id/action_Main_to_Anime3"
+            app:destination="@id/Anime3" />
+
+        <action
+            android:id="@+id/action_Main_to_Anime4"
+            app:destination="@id/Anime4" />
+
+        <action
+            android:id="@+id/action_Main_to_Anime5"
+            app:destination="@id/Anime5" />
+
+        <action
+            android:id="@+id/action_Main_to_Anime6"
+            app:destination="@id/Anime6" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/Anime1"
+        android:name="com.example.animenews.Anime1"
+        android:label="@string/second_fragment_label"
+        tools:layout="@layout/fragment_first">
+
+        <action
+            android:id="@+id/action_Anime1_to_Main"
+            app:destination="@id/FirstFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/Anime2"
+        android:name="com.example.animenews.Anime2"
+        android:label="@string/second_fragment_label"
+        tools:layout="@layout/fragment_first">
+
+        <action
+            android:id="@+id/action_Anime2_to_Main"
+            app:destination="@id/FirstFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/Anime3"
+        android:name="com.example.animenews.Anime3"
+        android:label="@string/second_fragment_label"
+        tools:layout="@layout/fragment_first">
+
+        <action
+            android:id="@+id/action_Anime3_to_Main"
+            app:destination="@id/FirstFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/Anime4"
+        android:name="com.example.animenews.Anime4"
+        android:label="@string/second_fragment_label"
+        tools:layout="@layout/fragment_first">
+
+        <action
+            android:id="@+id/action_Anime4_to_Main"
+            app:destination="@id/FirstFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/Anime5"
+        android:name="com.example.animenews.Anime5"
+        android:label="@string/second_fragment_label"
+        tools:layout="@layout/fragment_first">
+
+        <action
+            android:id="@+id/action_Anime5_to_Main"
+            app:destination="@id/FirstFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/Anime6"
+        android:name="com.example.animenews.Anime6"
+        android:label="@string/second_fragment_label"
+        tools:layout="@layout/fragment_first">
+
+        <action
+            android:id="@+id/action_Anime6_to_Main"
+            app:destination="@id/FirstFragment" />
+    </fragment>
+</navigation>

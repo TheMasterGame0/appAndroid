@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name" translatable="false">animeNews</string>
+    <string name="action_settings">Configurações</string>
+    <string name="close">Fechar</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Crunchyroll</string>
+    <string name="second_fragment_label">Crunchyroll</string>
+    <string name="previous">Voltar</string>
+    <!-- Strings usadas para detalhar elementos das paginas -->
+    <string name="titulo_pag_inicial">Notícias</string>
+
+    <string name="autor_text">Por: %1$s</string>
+    <string name="sinopse_text">\ \ \ \ <b>Sinopse</b>: %1$s</string>
+
+    <string name="descricao_card_1">Imagem do anime Demon Slayer</string>
+    <string name="titulo_card_1">Horário da estreia de Demon Slayer: Kimetsu no Yaiba Hashira Training Arc</string>
+    <string name="data_card_1">10/05/2024</string>
+    <string name="autor_pag_card_1">Samir Fraiha</string>
+    <string name="texto_pag_card_1"> \ \ \ \  Está chegando a hora do intensivão de treinamento do Esquadrão de Exterminadores de Onis!
+        O 1º episódio de <b>Demon Slayer: Kimetsu no Yaiba Hashira Training Arc</b> estreia com exclusividade aqui na Crunchyroll
+        no dia <b><u>12 de maio, às 15:45</u></b> (horário de Brasília), com seu 2º episódio chegando dia <b>19 de maio, às 14:45</b>,
+        com os vindouros episódios chegando sempre nesse horário. </string>
+    <string name="sinopse_pag_card_1">Japão, era Taisho. Tanjiro, um bondoso jovem que ganha a vida vendendo carvão, descobre que sua família foi massacrada por um demônio. E pra piorar, Nezuko, sua irmã mais nova e única sobrevivente, também foi transformada num demônio. Arrasado com esta sombria realidade, Tanjiro decide se tornar um matador de demônios para fazer sua irmã voltar a ser humana, e para matar o demônio que matou sua família. Um triste conto sobre dois irmãos, onde os destinos dos humanos e dos demônios se entrelaçam, começa agora.</string>
+
+    <string name="descricao_card_2">Imagem do anime Tomodachi Game</string>
+    <string name="titulo_card_2">Tomodachi Game está chegando ao fim</string>
+    <string name="data_card_2">10/05/2024</string>
+    <string name="autor_pag_card_2">Talles Queiroz</string>
+    <string name="texto_pag_card_2"> \ \ \ \  <b>Tomodachi Game</b> é publicado no Japão desde 2013 na <b>Shonen Magazine</b>, revista da <b>Kodansha</b>.
+        A história tem conceito original criado por <b>Mikoto Yamaguchi</b>, conceito esse que foi repassado para mangá por <b>Yuki Sato</b>.
+        \n\n \ \ \ \ <b>Tomodachi Game</b> já conta com adaptação para anime, dorama e filmes live-action. </string>
+    <string name="sinopse_pag_card_2">Yuichi Katagiri é um jovem colegial que aprecia a amizade acima de tudo, e leva uma vida feliz ao lado de seus amigos Shiho, Tenji, Makoto e Yutori… Contudo, um incidente os afunda em dívidas, forçando estes 5 jovens a participar do "Jogo do Amigo", um jogo onde é preciso confiar plenamente em seus amigos para vencer. Deveria ser uma tarefa fácil para este grupo, mas… Será que eles vão confiar em seus amigos, ou vão trai-los? A verdadeira natureza da humanidade será escancarada nesta obra de disputa psicológica, cujo mangá já vendeu mais de dois milhões de cópias!</string>
+
+    <string name="descricao_card_3">Imagem do anime Frieren</string>
+    <string name="titulo_card_3">Mangá de Frieren e a Jornada para o Além entrará novamente em hiato</string>
+    <string name="data_card_3">10/05/2024</string>
+    <string name="autor_pag_card_3">Talles Queiroz</string>
+    <string name="texto_pag_card_3">\ \ \ \ Foi anunciado na edição mais recente da Shonen Sunday que o mangá Frieren e a Jornada para o Além (Soso no Frieren) entrará em um novo hiato a partir do dia 15 de maio. Não foi divulgada uma previsão de retorno para a série. \n\n
+        \ \ \ \ O hiato mais recente do mangá foi encerrado há poucas semanas, quando o mangá voltou a ser publicado no dia 24 de abril depois de um mês paralisado.\n\n
+        \ \ \ \ Frieren e a Jornada para o Além é seriado na revista semanal Shonen Sunday desde abril de 2020, tendo 13 volumes encadernados lançados até então pela Shogakukan. No Brasil, o premiado mangá é publicado pela editora Panini. A obra é escrita por Kanehito Yamada e ilustrada por Tsukasa Abe.\n\n
+        \ \ \ \ Frieren e a Jornada para o Além foi recentemente adaptado para anime pelo estúdio Madhouse. A obra está disponível aqui na Crunchyroll, tanto com dublagem quanto com legendas em português.</string>
+    <string name="sinopse_pag_card_3">Após uma missão de 10 anos ao lado do herói Himmel e seu grupo, a poderosa maga Frieren derrotou o Rei Demônio e trouxe paz ao reino. Como uma elfa, Frieren tem uma vida de mais de mil anos pela frente. Ela promete retornar para seus amigos e, assim, parte em uma jornada solitária. 50 anos se passam quando Frieren finalmente volta para visitar Himmel e os outros. Embora ela não tenha envelhecido nada, seus amigos têm pouco tempo de vida restante. É então que Frieren testemunha a morte de Himmel, o que a leva a lamentar não ter passado mais tempo junto dele. Com esse arrependimento em seu coração, ela embarca em uma nova jornada com o objetivo de se conectar e conhecer melhor as pessoas. Ao longo dessa viagem, a elfa Frieren encontrará diversas pessoas e viverá incontáveis aventuras emocionantes!</string>
+
+    <string name="descricao_card_4">Imagem do anime I Was Reincarnated as the 7th Prince</string>
+    <string name="titulo_card_4">Anime "I Was Reincarnated as the 7th Prince" ganha nova arte, trailer e mais</string>
+    <string name="data_card_4">06/05/2024</string>
+    <string name="autor_pag_card_4">Samir Fraiha</string>
+    <string name="texto_pag_card_4">\ \ \ \ <b>I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability</b>, o atual anime baseado na série de light novels de fantasia isekai, está entrando em um novo arco de história e por isso acabou de ganhar uma nova arte, trailer e adições ao seu elenco de voz.</string>
+    <string name="sinopse_pag_card_4">Apesar de seu profundo amor pela magia, um jovem feiticeiro nasceu em uma família pobre, sem linhagem sanguínea nem aptidão para o estudo mágico. Após encontrar uma morte prematura e cheia de arrependimentos, ele renasce como Lloyd, o sétimo príncipe do Reino de Saloum, dotado de uma poderosa linhagem mágica. Agora, com todas as suas memórias intactas, ele está determinado a aproveitar essa nova vida, utilizando suas extraordinárias habilidades para dominar o estudo da magia, algo que estava além de seu alcance na vida anterior. Acompanhe sua jornada enquanto ele visa superar suas limitações passadas e se tornar um mestre na arte da magia!</string>
+
+    <string name="descricao_card_5">Imagem do anime My Hero Academia</string>
+    <string name="titulo_card_5">7ª temporada de My Hero Academia: Abertura e encerramento</string>
+    <string name="data_card_5">04/05/2024</string>
+    <string name="autor_pag_card_5">Samir Fraiha</string>
+    <string name="texto_pag_card_5">\ \ \ \ O 1º episódio da 7ª temporada de <b>My Hero Academia</b> já está disponível, levando um pouco de super-heroismo americano para o Japão para dar um jeito na situação. Além do episódio, foram publicadas as versões sem créditos da sua abertura e encerramento.</string>
+    <string name="sinopse_pag_card_5">Por toda a sua vida, Izuku sonhou ser um herói — um objetivo ambicioso para qualquer um, mas especialmente desafiador para um garoto sem superpoderes. Isso mesmo: em um mundo onde 80% da população tem algum tipo de Dom especial, Izuku teve a má sorte de nascer completamente normal. Mas isso não vai impedi-lo de se matricular em uma das academias de heróis mais prestigiosas do mundo.</string>
+
+    <string name="descricao_card_6">Imagem do anime Solo Leveling</string>
+    <string name="titulo_card_6">2ª temporada de Solo Leveling é oficialmente anunciada</string>
+    <string name="data_card_6">30/03/2024</string>
+    <string name="autor_pag_card_6">José S.</string>
+    <string name="texto_pag_card_6">\ \ \ \ Agora é oficial! A segunda temporada de <b>Solo Leveling</b> acabou de ser anunciada. A notícia foi revelada logo após a exibição do episódio 12 da série no Japão, que acabou de ir ao ar. Nenhuma data de lançamento foi confirmada até o momento, contudo.\n\n
+        A Crunchyroll também confirmou que a segunda temporada de <b>Solo Leveling</b>, oficialmente intitulada <b>Solo Leveling Season 2 -Arise from the Shadow-</b>, será exibida na plataforma quando for ao ar. Um vídeo promocional foi divulgado, além de uma arte de personagem do cavaleiro Igris, que apareceu no episódio 11 pela primeira vez.</string>
+    <string name="sinopse_pag_card_6">Há mais de uma década, surgiu uma misteriosa passagem chamada "portal", que conecta este mundo a uma dimensão diferente, o que fez com que pessoas despertassem poderes únicos… e essas pessoas são chamadas de "caçadores". Os caçadores usam seus poderes sobre-humanos para conquistar masmorras dentro dos portais e assim ganhar a vida. Sung Jinwoo, um caçador de nível baixo, é considerado o caçador mais fraco de toda a humanidade. Certo dia, ele se depara com uma "masmorra dupla", que tem uma masmorra de nível alto escondida dentro de uma masmorra de nível baixo. Diante de um Jinwoo gravemente ferido, surge uma misteriosa missão! À beira da morte, Jinwoo decide aceitar essa missão, tornando-se assim a única pessoa capaz de subir de nível!</string>
+</resources>
